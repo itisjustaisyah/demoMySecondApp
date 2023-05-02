@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo My Login App</string>
+    <string name="this_is_a_textview">This is a TextView!</string>
+    <string name="button_2">BUTTON 2</string>
+    <string name="button_1">BUTTON 1</string>
+    <string name="welcome_to_android">Welcome to Android!</string>
+    <string name="name">Name:</string>
+    <string name="potato">potato</string>
+    <string name="password">Password:</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
+</resources>
